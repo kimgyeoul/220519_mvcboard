@@ -1,0 +1,3 @@
+MVC_MV2
+DYNAMIC WEB PROJECT -> 프로젝트 명 MVC_M2 -> 경로는 내 파일에 MVC_M2 파일 만들어서 넥스트 ->
+마지막장 체크박스 체크해주기 -> <web-app> 만 나오게 나머지 삭제
